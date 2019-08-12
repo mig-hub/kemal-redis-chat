@@ -1,0 +1,25 @@
+name: kemal-redis-chat
+version: 0.1.0
+
+authors:
+  - Mickael Riga <mig@mypeplum.com>
+
+targets:
+  kemal-redis-chat:
+    main: src/kemal-redis-chat.cr
+
+crystal: 0.30.0
+
+license: MIT
+
+dependencies:
+  kemal:
+    github: sdogruyol/kemal
+    branch: master
+  redis:
+    github: stefanwille/crystal-redis
+    branch: master
+  slang:
+    github: jeromegn/slang
+    branch: master
+

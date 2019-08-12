@@ -1,0 +1,30 @@
+version: 1.0
+shards:
+  exception_page:
+    github: crystal-loot/exception_page
+    version: 0.1.2
+
+  kemal:
+    github: sdogruyol/kemal
+    commit: 15022c25b824ecbfe465862bfa8a8e37a4b6ab40
+
+  kilt:
+    github: jeromegn/kilt
+    version: 0.4.0
+
+  pool:
+    github: ysbaddaden/pool
+    version: 0.2.3
+
+  radix:
+    github: luislavena/radix
+    version: 0.3.9
+
+  redis:
+    github: stefanwille/crystal-redis
+    commit: aaaab9e8405f90c931f82106814d3ad0cbf4ccad
+
+  slang:
+    github: jeromegn/slang
+    commit: f33c23be9d477a07627a124d0b79d6cdb7a9132e
+
