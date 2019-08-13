@@ -1,6 +1,6 @@
 # kemal-redis-chat
 
-This repository contains the code from a blog article on [TLBX](https://www.tlbx.app) about [How to store Kemal websocket connections with Redis](https://www.tlbx.app/blog/store-kemal-websocket-connections-with-redis)
+This repository contains the code from a blog article on [TLBX](https://www.tlbx.app) about [How to store Kemal websocket connections with Redis](https://www.tlbx.app/blog/store-kemal-websocket-connections-with-redis).
 
 ## Installation
 
@@ -18,5 +18,5 @@ git clone https://github.com/mig-hub/kemal-redis-chat
 
 ## Contributors
 
-- [Mickael Riga](https://github.com/your-github-user) - creator and maintainer
+- [Mickael Riga](https://github.com/mig-hub) - creator and maintainer
 
