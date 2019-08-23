@@ -1,6 +1,6 @@
 # kemal-redis-chat
 
-This repository contains the code from a blog article on [TLBX](https://www.tlbx.app) about [How to store Kemal websocket connections with Redis](https://www.tlbx.app/blog/store-kemal-websocket-connections-with-redis).
+This repository contains the code from a blog article on [TLBX](https://www.tlbx.app) about [How to dispatch Kemal websocket messages with Redis Pub/Sub](https://www.tlbx.app/blog/dispatch-kemal-websocket-messages-with-redis-pub-sub).
 
 ## Installation
 
